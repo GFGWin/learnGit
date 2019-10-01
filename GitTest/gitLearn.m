@@ -17,4 +17,10 @@
     }
     return self;
 }
+
+-(void)addSomething
+{
+    NSLog(@"GFG分支创建函数");
+    
+}
 @end
