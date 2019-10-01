@@ -20,6 +20,8 @@
     NSLog(@"我现在是在主分支新增的功能");
     
     NSLog(@"我现在是在主分支新增第二个功能");
+    
+    NSLog(@"这是hot分支创建的");
     // Do any additional setup after loading the view.
 }
 
