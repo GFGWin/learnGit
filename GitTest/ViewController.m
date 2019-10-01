@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"我现在是在主分支创建的项目");
+    NSLog(@"我现在是在主分支新增的功能");
     // Do any additional setup after loading the view.
 }
 
