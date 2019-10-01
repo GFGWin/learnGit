@@ -16,6 +16,7 @@
 		2F19F4FC234384E8002A72CC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F19F4FB234384E8002A72CC /* main.m */; };
 		2F19F506234384E9002A72CC /* GitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F19F505234384E9002A72CC /* GitTestTests.m */; };
 		2F19F511234384E9002A72CC /* GitTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F19F510234384E9002A72CC /* GitTestUITests.m */; };
+		2F19F52023438886002A72CC /* gitLearn.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F19F51F23438886002A72CC /* gitLearn.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		2F19F50C234384E9002A72CC /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F19F510234384E9002A72CC /* GitTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestUITests.m; sourceTree = "<group>"; };
 		2F19F512234384E9002A72CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F19F51E23438886002A72CC /* gitLearn.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gitLearn.h; sourceTree = "<group>"; };
+		2F19F51F23438886002A72CC /* gitLearn.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitLearn.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				2F19F4ED234384E7002A72CC /* SceneDelegate.m */,
 				2F19F4EF234384E7002A72CC /* ViewController.h */,
 				2F19F4F0234384E7002A72CC /* ViewController.m */,
+				2F19F51E23438886002A72CC /* gitLearn.h */,
+				2F19F51F23438886002A72CC /* gitLearn.m */,
 				2F19F4F2234384E7002A72CC /* Main.storyboard */,
 				2F19F4F5234384E8002A72CC /* Assets.xcassets */,
 				2F19F4F7234384E8002A72CC /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F19F4F1234384E7002A72CC /* ViewController.m in Sources */,
+				2F19F52023438886002A72CC /* gitLearn.m in Sources */,
 				2F19F4EB234384E7002A72CC /* AppDelegate.m in Sources */,
 				2F19F4FC234384E8002A72CC /* main.m in Sources */,
 				2F19F4EE234384E7002A72CC /* SceneDelegate.m in Sources */,
